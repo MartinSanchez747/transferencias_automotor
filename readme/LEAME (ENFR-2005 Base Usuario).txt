@@ -1,0 +1,22 @@
+              INDEC - PROGRAMA VIGI+A
+ 
+Encuesta Nacional de Factores de Riesgo 2005 - ENFR-2005
+
+
+Los datos se presentan en un archivo con las siguientes características:
+
+Tipo de archivo: texto plano.
+Delimitador: “|” (pipe, barra vertical, ASCII 124).
+Calificador de texto: comilla doble (ASCII 34).
+Encabezado en la primera línea: sí.
+Codificación: UTF-8.
+Salto de línea: Windows (CRLF).
+
+
+***************************************************************************************
+
+Este archivo de microdatos está disponible a partir del 15 de septiembre de 2015.
+
+Se agregaron las variables de ingreso imputadas y los quintiles de ingreso del hogar por unidad consumidora.
+
+Por razones de comparabilidad, se revisó y reformuló la construcción de algunos indicadores.
